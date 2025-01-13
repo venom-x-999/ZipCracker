@@ -40,6 +40,6 @@ This is a simple yet powerful Bash script designed to brute-force password-prote
 
 ## Screenshot
 
-<img align="right" alt="Coding" height="400" width="300" src="https://github.com/venom-x-999/ZipCracker/blob/main/ss1.png">
+<img align="center" alt="img1" width="400" src="https://github.com/venom-x-999/ZipCracker/blob/main/ss2.png">
 
-<img align="right" alt="Coding" height="400" width="300" src="https://github.com/venom-x-999/ZipCracker/blob/main/ss2.png">
+<img align="center" alt="img2" width="400" src="https://github.com/venom-x-999/ZipCracker/blob/main/ss1.png">
