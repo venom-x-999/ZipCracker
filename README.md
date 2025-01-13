@@ -10,14 +10,6 @@ This is a simple yet powerful Bash script designed to brute-force password-prote
 
 • *Customizable*: Modify the script to suit your specific needs.
 
-## Usages
-
-1. *Input the Path to the Protected Zip File*: Enter the full path of the locked zip file you want to crack.
- 
-2. *Input the Path to the Password File*: Provide a text file containing a list of potential passwords (one password per line).
-   
-3. *Let the Tool Work*: The script will try each password in the list until it finds the correct one or finishes the list.
-
 ## Installation
 
 1. *Install dependencies*:
@@ -27,6 +19,7 @@ This is a simple yet powerful Bash script designed to brute-force password-prote
    apt upgrade -y
    apt install git
    apt install python
+   apt install zlib
    apt install unzip
    
 2. *Clone the repository*:
@@ -34,5 +27,13 @@ This is a simple yet powerful Bash script designed to brute-force password-prote
    ```bash
    git clone https://github.com/venom-x-999/ZipCracker.git
    cd ZipCracker
-   chmod +x zipcracker.c
-   ./zipcrzcker.c
+   chmod +x zipcracker.sh
+   ./zipcracker.sh
+
+## Usages
+
+1. *Input the Path to the Protected Zip File*: Enter the full path of the locked zip file you want to crack.
+ 
+2. *Input the Path to the Password File*: Provide a text file containing a list of potential passwords (one password per line).
+   
+3. *Let the Tool Work*: The script will try each password in the list until it finds the correct one or finishes the list.
