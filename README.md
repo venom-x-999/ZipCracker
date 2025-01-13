@@ -44,6 +44,7 @@ This is a simple yet powerful Bash script designed to brute-force password-prote
 
 <img align="center" alt="img2" width="400" src="https://github.com/venom-x-999/ZipCracker/blob/main/ss1.png">
 
+## Connect me
 
 <a href="https://fb.com/venom-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="venom-x" height="30" width="40" /></a>
 <a href="https://instagram.com/venom_x99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venom_x99" height="30" width="40" /></a>
