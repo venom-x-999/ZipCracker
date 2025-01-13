@@ -1,11 +1,14 @@
 # ZipCracker
 
-ZipCracker is a C program designed to crack the password of a ZIP file using a brute-force approach with a provided wordlist.
 
-## Contents
 
-- zipcracker.c: The C source code for the ZIP password cracker.
-- README.md: This README file.
+## Features
+
+User-Friendly: Just provide the path to the zip file and the password list, and the tool does the rest.
+
+High Success Rate: Efficiently tests passwords until the correct one is found or the list is exhausted.
+
+Customizable: Modify the script to suit your specific needs.
 
 ### Installation
 
